@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahulrakesh
-- 👀 I’m interested in ...Coding and logical programming
-- 🌱 I’m currently learning ...Machine learning 
-- 💞️ I’m looking to collaborate on ...Projects on Machine learning
+- 👀 I’m interested in ...Coding and logical programming and machine learning
+- 🌱 I’m currently working on Java and Sql Server (Designing,Developing  and Automating Process and Databases)
+- 💞️ 
 - 📫 How to reach me ...www.linkedin.com/in/rahulrakeshrr
 
 <!---
